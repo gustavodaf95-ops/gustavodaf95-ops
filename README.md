@@ -1,6 +1,7 @@
-Olá, eu sou a Gustavo de Araujo e esse é meu perfil no GitHub. Sou programador front-end, estou cursando Análise e Desenvolvimento de Sistemas e cursando JavScript pela FreeCodeCamp.
+<h1>Oie, tudo bem? Me chamo Gustavo e sou um programador em formação, no momento cursando Análise e Desenvolvimento de Sistemas pela universidade UniSenac e participando do Bootcamp Santander em Python.</h1>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavodaf95-ops&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodaf95-ops&layout=compact&theme=radical)
 
-https://github-readme-stats.vercel.app/api?username=(https://github.com/gustavodaf95-ops&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gustavodaf95-ops/github-readme-stats#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
