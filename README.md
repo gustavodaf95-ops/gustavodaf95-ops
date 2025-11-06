@@ -1,6 +1,8 @@
 <h1>Oie, tudo bem? Me chamo Gustavo e sou um programador em formação, no momento cursando Análise e Desenvolvimento de Sistemas pela universidade UniSenac e participando do Bootcamp Santander em Python.</h1>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavodaf95-ops&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodaf95-ops&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavodaf95-ops&show_icons=true&theme=radical&cache_seconds=60)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodaf95-ops&layout=compact&theme=radical&cache_seconds=60)
 
 
 <div style="display: inline_block"><br>
